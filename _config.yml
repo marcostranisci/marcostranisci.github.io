@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marco Antonio Stranisci personal page"
+title                    : "M.A. Stranisci"
 title_separator          : "-"
 name                     : &name "Marco Antonio Stranisci"
 description              : &description "PhD student in NLP (and a lot of other stuff)"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "M.A. Stranisci"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD student in NLP and Semantic Web"
+  location         : "Turin, Italy"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=93SGqksAAAAJ&hl=en"
