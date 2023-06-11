@@ -1,7 +1,7 @@
 ---
 title: "Annotating Sentiment and Irony in the Online Italian Political Debate on #labuonascuola"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publications/2016-05-buonascuola
 excerpt: 'In this paper we present the TWitterBuonaScuola corpus (TW-BS), a novel Italian linguistic resource for Sentiment Analysis, developed with the main aim of analyzing the online debate on the controversial Italian political reform “Buona Scuola” (Good school), aimed at reorganizing the national educational and training systems. We describe the methodologies applied in the collection and annotation of data. The collection has been driven by the detection of the hashtags mainly used by the participants to the debate, while the annotation has been focused on sentiment polarity and irony, but also extended to mark the aspects of the reform that were mainly discussed in the debate. An in-depth study of the disagreement among annotators is included. We describe the collection and annotation stages, and the in-depth analysis of disagreement made with Crowdflower, a crowdsourcing annotation platform.'
 date: 2016-05
 venue: 'Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16)'
