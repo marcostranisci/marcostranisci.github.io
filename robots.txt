@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://marcostranisci.github.ioblank/sitemap.xml
+Sitemap: https://marcostranisci.github.io/sitemap.xml
