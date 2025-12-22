@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>
+subtitle: NLP and Semantic Web researcher
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -13,7 +13,7 @@ profile:
     <p>Corso Svizzera, 185</p>
     <p>Torino, Italy</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,4 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-ciao
+Hi, I'm Marco: a postdoctoral researcher working at the intersection between Natural Language Processing and Semantic Web. In the past years I explored several topics that share the aim of designing fair and inclusive language technologies. My PhD thesis focused on the detection of *allocative* and *representational* bias in digital archives but I also worked on the psychological factors that explain the propagation of Hate Speech (e.g., coping strategies, moral configurations). 
+
+My actual interests revolve around two main directions: exploring the impact of pretraining in the propagation of harms by Large Language Models and adopting uncertainty as a proxy to detect social bias in models behavior. From a methodological perspective, I am interested in Neuro-symbolic applications and specifically in the integration of structured knowledge with NLP systems.
+
+As a side quest, in 2023 I founded (aequa-tech)[https://aequa-tech.com]: a start-up whose aim is the development of NLP technologies for social good. 
