@@ -462,7 +462,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://autobibliography.substack.com/", "_blank");
         },
       },{
       id: 'light-theme',
