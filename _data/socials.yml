@@ -52,6 +52,6 @@ scholar_userid: 93SGqksAAAAJ # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  - logo: https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/substack-app-icon.png # can be png, svg, jpg
-    title: Substack
-    url: https://autobibliography.substack.com/
+  logo: https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/substack-app-icon.png # can be png, svg, jpg
+  title: Substack
+  url: https://autobibliography.substack.com/
