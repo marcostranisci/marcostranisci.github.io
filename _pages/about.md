@@ -31,4 +31,4 @@ Hi, I'm Marco: a postdoctoral researcher working at the intersection between Nat
 
 My actual interests revolve around two main directions: exploring the impact of pretraining in the propagation of harms by Large Language Models and adopting uncertainty as a proxy to detect social bias in models behavior. From a methodological perspective, I am interested in Neuro-symbolic applications and specifically in the integration of structured knowledge with NLP systems.
 
-As a side quest, in 2023 I founded (aequa-tech)[https://aequa-tech.com]: a start-up whose aim is the development of NLP technologies for social good. 
+As a side quest, in 2023 I founded [aequa-tech](https://aequa-tech.com): a start-up whose aim is the development of NLP technologies for social good. 
