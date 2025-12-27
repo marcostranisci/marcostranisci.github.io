@@ -445,7 +445,7 @@ ninja.data = [{
           title: 'Got a MSCA-PF Seal of Excellence, which is a sort of: “you did...',
           description: "",
           section: "News",},{id: "news-tommaso-invited-me-at-the-workshop-truth-is-in-the-eyes-of-the-machines-where-i-presented-debunker-assistant",
-          title: 'Tommaso invited me at the workshop *Truth is in the Eyes of the...',
+          title: 'Tommaso invited me at the workshop Truth is in the Eyes of the...',
           description: "",
           section: "News",},{id: "news-in-vienna-at-acl-presenting-my-first-collab-with-marem-that-is-unacceptable-the-moral-foundations-of-canceling",
           title: 'In Vienna, at ACL, presenting my first collab with Marem: That is Unacceptable:...',
