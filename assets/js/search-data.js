@@ -384,10 +384,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-been-at-it-university-of-copenhagen-for-a-workshop-aimed-at-writing-an-msca-pf-proposal",
-          title: 'Been at IT University of Copenhagen for a workshop aimed at writing an...',
-          description: "",
-          section: "News",},{id: "news-i-m-thrilled-to-annouce-that-i-was-born",
+            },},{id: "news-i-m-thrilled-to-annouce-that-i-was-born",
           title: 'I’m thrilled to annouce that I was born',
           description: "",
           section: "News",},{id: "news-finished-i-ragazzi-della-via-pál-i-miss-nemecsek",
@@ -434,6 +431,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-best-day-of-my-life-by-far",
           title: 'Best day of my life, by far.',
+          description: "",
+          section: "News",},{id: "news-been-at-it-university-of-copenhagen-for-a-workshop-aimed-at-writing-an-msca-pf-proposal",
+          title: 'Been at IT University of Copenhagen for a workshop aimed at writing an...',
           description: "",
           section: "News",},{id: "news-after-two-years-of-work-with-roman-klinger-enrica-troiano-and-sofie-labat-the-first-dataset-of-coping-strategies-for-nlp-research-is-out-and-presented-at-emnlp-dealing-with-controversy-an-emotion-and-coping-strategy-corpus-based-on-role-playing",
           title: 'After two years of work with Roman Klinger, Enrica Troiano, and Sofie Labat...',
