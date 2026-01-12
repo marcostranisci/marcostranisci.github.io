@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-31'
+  last_updated: '2026-01-12'
 papers:
   93SGqksAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -9,10 +9,6 @@ papers:
     citations: 2
     title: Guidelines and a Corpus for Extracting Biographical Events
     year: '2022'
-  93SGqksAAAAJ:2P1L_qKh6hAC:
-    citations: 0
-    title: 'That is Unacceptable: the Moral Foundations of Canceling'
-    year: '2025'
   93SGqksAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'Proceedings of the Second Italian Conference on Computational Linguistics CLiC-it 2015: 3-4 December 2015, Trento'
@@ -38,7 +34,7 @@ papers:
     title: Tracking Biases in the Wikimedia Ecosystem
     year: Unknown Year
   93SGqksAAAAJ:9yKSN-GCB0IC:
-    citations: 49
+    citations: 50
     title: Annotating sentiment and irony in the online italian political debate on# labuonascuola
     year: '2016'
   93SGqksAAAAJ:BqipwSGYUEgC:
@@ -62,7 +58,7 @@ papers:
     title: Preface to the Eighth Workshop on Natural Language for Artificial Intelligence (NL4AI 2024)
     year: '2024'
   93SGqksAAAAJ:M3ejUd6NZC8C:
-    citations: 15
+    citations: 16
     title: 'WikiBio: a semantic resource for the intersectional analysis of biographical events'
     year: '2023'
   93SGqksAAAAJ:O3NaXMp0MMsC:
@@ -82,7 +78,7 @@ papers:
     title: "Dissecting biases in relation extraction: A cross-dataset analysis on people\u2019s gender and origin"
     year: '2024'
   93SGqksAAAAJ:Tyk-4Ss8FVUC:
-    citations: 113
+    citations: 120
     title: 'Haspeede 2@ evalita2020: Overview of the evalita 2020 hate speech detection task'
     year: '2020'
   93SGqksAAAAJ:UeHWp8X0CEIC:
@@ -97,10 +93,6 @@ papers:
     citations: 10
     title: 'Representing the under-represented: A dataset of post-colonial, and migrant writers'
     year: '2021'
-  93SGqksAAAAJ:Y0pCki6q_DkC:
-    citations: 9
-    title: Overview of the evalita 2020 second hate speech detection task (haspeede 2)
-    year: '2020'
   93SGqksAAAAJ:YFjsv_pBGBYC:
     citations: 0
     title: "L'odio come matrice di identit\xE0 digitale: un'analisi del contesto sovranista del web"
@@ -141,10 +133,6 @@ papers:
     citations: 5
     title: HaMor at the profiling hate speech spreaders on Twitter
     year: '2021'
-  93SGqksAAAAJ:fPk4N6BV_jEC:
-    citations: 0
-    title: 'COPING: An Emotion and Coping Strategy Corpus Based on Role Playing'
-    year: '2024'
   93SGqksAAAAJ:hC7cP41nSMkC:
     citations: 0
     title: Comparison of two annotation schemes to derive offensiveness scores in HurtLex.
@@ -226,6 +214,6 @@ papers:
     title: 'Beyond the Metrics: an Investigation into the Reliability of Evaluation Metrics for Domain Specific Graph-based Question Answering'
     year: '2025'
   93SGqksAAAAJ:zYLM7Y9cAGgC:
-    citations: 322
+    citations: 323
     title: An italian twitter corpus of hate speech against immigrants
     year: '2018'
