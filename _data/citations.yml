@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-12'
+  last_updated: '2026-01-19'
 papers:
   93SGqksAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -66,7 +66,7 @@ papers:
     title: What Are They Filtering Out? A Survey of Filtering Strategies for Harm Reduction in Pretraining Datasets
     year: '2025'
   93SGqksAAAAJ:Se3iqnhoufwC:
-    citations: 8
+    citations: 10
     title: Dietro lo schermo. Gli adolescenti e la comunicazione ai tempi di Facebook.
     year: '2013'
   93SGqksAAAAJ:TFP_iSt0sucC:
@@ -82,7 +82,7 @@ papers:
     title: 'Haspeede 2@ evalita2020: Overview of the evalita 2020 hate speech detection task'
     year: '2020'
   93SGqksAAAAJ:UeHWp8X0CEIC:
-    citations: 104
+    citations: 105
     title: 'Hate speech annotation: Analysis of an italian twitter corpus'
     year: '2017'
   93SGqksAAAAJ:UebtZRa9Y70C:
@@ -185,10 +185,6 @@ papers:
     citations: 10
     title: The world literature knowledge graph
     year: '2023'
-  93SGqksAAAAJ:r0BpntZqJG4C:
-    citations: 2
-    title: Dietro lo schermo
-    year: '2013'
   93SGqksAAAAJ:rO6llkc54NcC:
     citations: 1
     title: 'Subjectivity in stereotypes against migrants in italian: An experimental annotation procedure'
