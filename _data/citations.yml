@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-09'
 papers:
   93SGqksAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -138,7 +138,7 @@ papers:
     title: Comparison of two annotation schemes to derive offensiveness scores in HurtLex.
     year: '2022'
   93SGqksAAAAJ:hqOjcs7Dif8C:
-    citations: 16
+    citations: 17
     title: 'APPReddit: a corpus of Reddit posts annotated for appraisal'
     year: '2022'
   93SGqksAAAAJ:j3f4tGmQtD8C:
