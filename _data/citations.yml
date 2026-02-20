@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-02-20'
 papers:
   93SGqksAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -21,6 +21,10 @@ papers:
     citations: 0
     title: Are you sure? Measuring models bias in content moderation through uncertainty
     year: '2025'
+  93SGqksAAAAJ:4OULZ7Gr8RgC:
+    citations: 1
+    title: 'Debunker assistant: a support for detecting online misinformation'
+    year: '2023'
   93SGqksAAAAJ:4TOpqqG69KYC:
     citations: 3
     title: 'User-generated world literatures: a comparison between two social networks of readers'
@@ -34,15 +38,15 @@ papers:
     title: Tracking Biases in the Wikimedia Ecosystem
     year: Unknown Year
   93SGqksAAAAJ:9yKSN-GCB0IC:
-    citations: 50
+    citations: 47
     title: Annotating sentiment and irony in the online italian political debate on# labuonascuola
     year: '2016'
   93SGqksAAAAJ:BqipwSGYUEgC:
-    citations: 1
+    citations: 2
     title: How Do We Counter Hate Speech in Italy?
     year: '2024'
   93SGqksAAAAJ:IjCSPb-OGe4C:
-    citations: 36
+    citations: 35
     title: 'Annotating hate speech: Three schemes at comparison'
     year: '2019'
   93SGqksAAAAJ:KlAtU1dfN6UC:
@@ -63,7 +67,7 @@ papers:
     year: '2023'
   93SGqksAAAAJ:O3NaXMp0MMsC:
     citations: 7
-    title: What Are They Filtering Out? A Survey of Filtering Strategies for Harm Reduction in Pretraining Datasets
+    title: What are they filtering out? a survey of filtering strategies for harm reduction in pretraining datasets
     year: '2025'
   93SGqksAAAAJ:Se3iqnhoufwC:
     citations: 10
@@ -78,11 +82,11 @@ papers:
     title: "Dissecting biases in relation extraction: A cross-dataset analysis on people\u2019s gender and origin"
     year: '2024'
   93SGqksAAAAJ:Tyk-4Ss8FVUC:
-    citations: 120
+    citations: 122
     title: 'Haspeede 2@ evalita2020: Overview of the evalita 2020 hate speech detection task'
     year: '2020'
   93SGqksAAAAJ:UeHWp8X0CEIC:
-    citations: 105
+    citations: 107
     title: 'Hate speech annotation: Analysis of an italian twitter corpus'
     year: '2017'
   93SGqksAAAAJ:UebtZRa9Y70C:
@@ -90,7 +94,7 @@ papers:
     title: Report regionale Piemonte
     year: '2013'
   93SGqksAAAAJ:WF5omc3nYNoC:
-    citations: 10
+    citations: 11
     title: 'Representing the under-represented: A dataset of post-colonial, and migrant writers'
     year: '2021'
   93SGqksAAAAJ:YFjsv_pBGBYC:
@@ -119,16 +123,16 @@ papers:
     year: '2024'
   93SGqksAAAAJ:_kc_bZDykSQC:
     citations: 1
-    title: "Chapter An experimental annotation task to investigate annotators\u2019 subjectivity in a Misogyny dataset"
+    title: "An experimental annotation task to investigate annotators\u2019 subjectivity in a misogyny dataset"
     year: '2023'
-  93SGqksAAAAJ:bEWYMUwI8FkC:
-    citations: 1
-    title: How do we counter dangerous speech in Italy?
-    year: '2024'
   93SGqksAAAAJ:d1gkVwhDpl0C:
     citations: 2
     title: 'HATECHECKER: a tool to automatically detect hater users in online social networks'
     year: '2019'
+  93SGqksAAAAJ:dfsIfKJdRG4C:
+    citations: 0
+    title: What Are They Filtering Out? An Experimental Benchmark of Filtering Strategies for Harm Reduction in Pretraining Datasets
+    year: '2025'
   93SGqksAAAAJ:eQOLeE2rZwMC:
     citations: 5
     title: HaMor at the profiling hate speech spreaders on Twitter
@@ -142,7 +146,7 @@ papers:
     title: 'APPReddit: a corpus of Reddit posts annotated for appraisal'
     year: '2022'
   93SGqksAAAAJ:j3f4tGmQtD8C:
-    citations: 9
+    citations: 8
     title: 'O-dang at HODI and HaSpeeDe3: A knowledge-enhanced approach to homotransphobia and hate speech detection'
     year: '2024'
   93SGqksAAAAJ:kNdYIx-mwKoC:
@@ -153,12 +157,8 @@ papers:
     citations: 14
     title: Preface to the Eighth Workshop on Natural Language for Artificial Intelligence (NL4AI)
     year: '2024'
-  93SGqksAAAAJ:ldfaerwXgEUC:
-    citations: 0
-    title: Le metafore del Partito Democratico (2007-2011)
-    year: '2011'
   93SGqksAAAAJ:mVmsd5A6BfQC:
-    citations: 1
+    citations: 0
     title: 'Debunker Assistant: a support for detecting online misinformation'
     year: '2023'
   93SGqksAAAAJ:maZDTaKrznsC:
@@ -182,7 +182,7 @@ papers:
     title: "Computational linguistics against hate: Hate speech detection and visualization on social media in the \u201CContro L\u2019Odio\u201D project"
     year: '2019'
   93SGqksAAAAJ:qxL8FJ1GzNcC:
-    citations: 10
+    citations: 9
     title: The world literature knowledge graph
     year: '2023'
   93SGqksAAAAJ:rO6llkc54NcC:
@@ -190,11 +190,11 @@ papers:
     title: 'Subjectivity in stereotypes against migrants in italian: An experimental annotation procedure'
     year: '2025'
   93SGqksAAAAJ:u-x6o8ySG0sC:
-    citations: 27
+    citations: 29
     title: Tools and resources for detecting hate and prejudice against immigrants in social media
     year: '2017'
   93SGqksAAAAJ:u5HHmVD_uO8C:
-    citations: 15
+    citations: 14
     title: Analyzing and annotating for sentiment analysis the socio-political debate on# labuonascuola
     year: '2015'
   93SGqksAAAAJ:u_35RYKgDlwC:
@@ -210,6 +210,6 @@ papers:
     title: 'Beyond the Metrics: an Investigation into the Reliability of Evaluation Metrics for Domain Specific Graph-based Question Answering'
     year: '2025'
   93SGqksAAAAJ:zYLM7Y9cAGgC:
-    citations: 324
+    citations: 326
     title: An italian twitter corpus of hate speech against immigrants
     year: '2018'
