@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-03-02'
 papers:
   93SGqksAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -66,7 +66,7 @@ papers:
     title: 'WikiBio: a semantic resource for the intersectional analysis of biographical events'
     year: '2023'
   93SGqksAAAAJ:O3NaXMp0MMsC:
-    citations: 7
+    citations: 8
     title: What are they filtering out? a survey of filtering strategies for harm reduction in pretraining datasets
     year: '2025'
   93SGqksAAAAJ:Se3iqnhoufwC:
@@ -125,6 +125,10 @@ papers:
     citations: 1
     title: "An experimental annotation task to investigate annotators\u2019 subjectivity in a misogyny dataset"
     year: '2023'
+  93SGqksAAAAJ:cFHS6HbyZ2cC:
+    citations: 0
+    title: 'POLAR: A Benchmark for Multilingual, Multicultural, and Multi-Event Online Polarization'
+    year: '2025'
   93SGqksAAAAJ:d1gkVwhDpl0C:
     citations: 2
     title: 'HATECHECKER: a tool to automatically detect hater users in online social networks'
@@ -210,6 +214,6 @@ papers:
     title: 'Beyond the Metrics: an Investigation into the Reliability of Evaluation Metrics for Domain Specific Graph-based Question Answering'
     year: '2025'
   93SGqksAAAAJ:zYLM7Y9cAGgC:
-    citations: 326
+    citations: 327
     title: An italian twitter corpus of hate speech against immigrants
     year: '2018'
