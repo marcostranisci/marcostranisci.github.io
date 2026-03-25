@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-13'
+  last_updated: '2026-03-25'
 papers:
   93SGqksAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -30,7 +30,7 @@ papers:
     title: 'User-generated world literatures: a comparison between two social networks of readers'
     year: '2023'
   93SGqksAAAAJ:5nxA0vEk-isC:
-    citations: 13
+    citations: 14
     title: O-dang! the ontology of dangerous speech messages
     year: '2022'
   93SGqksAAAAJ:70eg2SAEIzsC:
@@ -62,13 +62,9 @@ papers:
     title: Preface to the Eighth Workshop on Natural Language for Artificial Intelligence (NL4AI 2024)
     year: '2024'
   93SGqksAAAAJ:M3ejUd6NZC8C:
-    citations: 16
+    citations: 17
     title: 'WikiBio: a semantic resource for the intersectional analysis of biographical events'
     year: '2023'
-  93SGqksAAAAJ:O3NaXMp0MMsC:
-    citations: 8
-    title: What are they filtering out? a survey of filtering strategies for harm reduction in pretraining datasets
-    year: '2025'
   93SGqksAAAAJ:Se3iqnhoufwC:
     citations: 10
     title: Dietro lo schermo. Gli adolescenti e la comunicazione ai tempi di Facebook.
@@ -82,11 +78,11 @@ papers:
     title: "Dissecting biases in relation extraction: A cross-dataset analysis on people\u2019s gender and origin"
     year: '2024'
   93SGqksAAAAJ:Tyk-4Ss8FVUC:
-    citations: 122
+    citations: 126
     title: 'Haspeede 2@ evalita2020: Overview of the evalita 2020 hate speech detection task'
     year: '2020'
   93SGqksAAAAJ:UeHWp8X0CEIC:
-    citations: 108
+    citations: 107
     title: 'Hate speech annotation: Analysis of an italian twitter corpus'
     year: '2017'
   93SGqksAAAAJ:UebtZRa9Y70C:
@@ -125,6 +121,18 @@ papers:
     citations: 1
     title: "An experimental annotation task to investigate annotators\u2019 subjectivity in a misogyny dataset"
     year: '2023'
+  93SGqksAAAAJ:abG-DnoFyZgC:
+    citations: 3
+    title: 'Kenji-Endo: a BabyLM@ EVALITA'
+    year: '2026'
+  93SGqksAAAAJ:b0M2c_1WBrUC:
+    citations: 9
+    title: What Are They Filtering Out? An Experimental Benchmark of Filtering Strategies for Harm Reduction in Pretraining Datasets
+    year: '2026'
+  93SGqksAAAAJ:bFI3QPDXJZMC:
+    citations: 46
+    title: 'Evalita 2026: Overview of the 9th evaluation campaign of natural language processing and speech tools for italian'
+    year: '2026'
   93SGqksAAAAJ:cFHS6HbyZ2cC:
     citations: 0
     title: 'POLAR: A Benchmark for Multilingual, Multicultural, and Multi-Event Online Polarization'
@@ -133,10 +141,6 @@ papers:
     citations: 2
     title: 'HATECHECKER: a tool to automatically detect hater users in online social networks'
     year: '2019'
-  93SGqksAAAAJ:dfsIfKJdRG4C:
-    citations: 0
-    title: What Are They Filtering Out? An Experimental Benchmark of Filtering Strategies for Harm Reduction in Pretraining Datasets
-    year: '2025'
   93SGqksAAAAJ:eQOLeE2rZwMC:
     citations: 5
     title: HaMor at the profiling hate speech spreaders on Twitter
@@ -186,7 +190,7 @@ papers:
     title: "Computational linguistics against hate: Hate speech detection and visualization on social media in the \u201CContro L\u2019Odio\u201D project"
     year: '2019'
   93SGqksAAAAJ:qxL8FJ1GzNcC:
-    citations: 9
+    citations: 11
     title: The world literature knowledge graph
     year: '2023'
   93SGqksAAAAJ:rO6llkc54NcC:
@@ -214,6 +218,6 @@ papers:
     title: 'Beyond the Metrics: an Investigation into the Reliability of Evaluation Metrics for Domain Specific Graph-based Question Answering'
     year: '2025'
   93SGqksAAAAJ:zYLM7Y9cAGgC:
-    citations: 328
+    citations: 335
     title: An italian twitter corpus of hate speech against immigrants
     year: '2018'
