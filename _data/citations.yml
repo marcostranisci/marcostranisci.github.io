@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-04-03'
 papers:
   93SGqksAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -46,7 +46,7 @@ papers:
     title: How Do We Counter Hate Speech in Italy?
     year: '2024'
   93SGqksAAAAJ:IjCSPb-OGe4C:
-    citations: 35
+    citations: 36
     title: 'Annotating hate speech: Three schemes at comparison'
     year: '2019'
   93SGqksAAAAJ:KlAtU1dfN6UC:
@@ -65,6 +65,10 @@ papers:
     citations: 17
     title: 'WikiBio: a semantic resource for the intersectional analysis of biographical events'
     year: '2023'
+  93SGqksAAAAJ:NhqRSupF_l8C:
+    citations: 0
+    title: 'Conspiracy Frame: a Semiotically-Driven Approach for Conspiracy Theories Detection'
+    year: '2026'
   93SGqksAAAAJ:Se3iqnhoufwC:
     citations: 10
     title: Dietro lo schermo. Gli adolescenti e la comunicazione ai tempi di Facebook.
@@ -78,7 +82,7 @@ papers:
     title: "Dissecting biases in relation extraction: A cross-dataset analysis on people\u2019s gender and origin"
     year: '2024'
   93SGqksAAAAJ:Tyk-4Ss8FVUC:
-    citations: 126
+    citations: 128
     title: 'Haspeede 2@ evalita2020: Overview of the evalita 2020 hate speech detection task'
     year: '2020'
   93SGqksAAAAJ:UeHWp8X0CEIC:
@@ -218,6 +222,6 @@ papers:
     title: 'Beyond the Metrics: an Investigation into the Reliability of Evaluation Metrics for Domain Specific Graph-based Question Answering'
     year: '2025'
   93SGqksAAAAJ:zYLM7Y9cAGgC:
-    citations: 335
+    citations: 338
     title: An italian twitter corpus of hate speech against immigrants
     year: '2018'
