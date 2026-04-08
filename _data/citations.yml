@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-08'
 papers:
   93SGqksAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -38,7 +38,7 @@ papers:
     title: Tracking Biases in the Wikimedia Ecosystem
     year: Unknown Year
   93SGqksAAAAJ:9yKSN-GCB0IC:
-    citations: 47
+    citations: 48
     title: Annotating sentiment and irony in the online italian political debate on# labuonascuola
     year: '2016'
   93SGqksAAAAJ:BqipwSGYUEgC:
@@ -194,7 +194,7 @@ papers:
     title: "Computational linguistics against hate: Hate speech detection and visualization on social media in the \u201CContro L\u2019Odio\u201D project"
     year: '2019'
   93SGqksAAAAJ:qxL8FJ1GzNcC:
-    citations: 11
+    citations: 12
     title: The world literature knowledge graph
     year: '2023'
   93SGqksAAAAJ:rO6llkc54NcC:
@@ -217,8 +217,12 @@ papers:
     citations: 8
     title: Mapping Biographical events to ODPs through Lexico-Semantic Patterns?
     year: '2021'
-  93SGqksAAAAJ:zA6iFVUQeVQC:
+  93SGqksAAAAJ:xtRiw3GOFMkC:
     citations: 0
+    title: 'TailNLG: A Multilingual Benchmark Addressing Verbalization of Long-Tail Entities'
+    year: '2026'
+  93SGqksAAAAJ:zA6iFVUQeVQC:
+    citations: 1
     title: 'Beyond the Metrics: an Investigation into the Reliability of Evaluation Metrics for Domain Specific Graph-based Question Answering'
     year: '2025'
   93SGqksAAAAJ:zYLM7Y9cAGgC:
