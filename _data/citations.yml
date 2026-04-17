@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-17'
 papers:
   93SGqksAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -30,7 +30,7 @@ papers:
     title: 'User-generated world literatures: a comparison between two social networks of readers'
     year: '2023'
   93SGqksAAAAJ:5nxA0vEk-isC:
-    citations: 14
+    citations: 15
     title: O-dang! the ontology of dangerous speech messages
     year: '2022'
   93SGqksAAAAJ:70eg2SAEIzsC:
@@ -46,7 +46,7 @@ papers:
     title: How Do We Counter Hate Speech in Italy?
     year: '2024'
   93SGqksAAAAJ:IjCSPb-OGe4C:
-    citations: 36
+    citations: 37
     title: 'Annotating hate speech: Three schemes at comparison'
     year: '2019'
   93SGqksAAAAJ:KlAtU1dfN6UC:
@@ -69,12 +69,16 @@ papers:
     citations: 0
     title: 'Conspiracy Frame: a Semiotically-Driven Approach for Conspiracy Theories Detection'
     year: '2026'
+  93SGqksAAAAJ:SP6oXDckpogC:
+    citations: 0
+    title: 'Conspiracy Frame: a Semiotically-Driven Approach for Conspiracy Theories Detection'
+    year: '2026'
   93SGqksAAAAJ:Se3iqnhoufwC:
     citations: 10
     title: Dietro lo schermo. Gli adolescenti e la comunicazione ai tempi di Facebook.
     year: '2013'
   93SGqksAAAAJ:TFP_iSt0sucC:
-    citations: 1
+    citations: 2
     title: The Vulnerable Identities Recognition Corpus (VIRC) for Hate Speech Analysis
     year: '2024'
   93SGqksAAAAJ:TQgYirikUcIC:
@@ -97,6 +101,10 @@ papers:
     citations: 11
     title: 'Representing the under-represented: A dataset of post-colonial, and migrant writers'
     year: '2021'
+  93SGqksAAAAJ:XiSMed-E-HIC:
+    citations: 0
+    title: 'SemEval-2026 Task 9: Detecting Multilingual, Multicultural and Multievent Online Polarization'
+    year: '2026'
   93SGqksAAAAJ:YFjsv_pBGBYC:
     citations: 0
     title: "L'odio come matrice di identit\xE0 digitale: un'analisi del contesto sovranista del web"
@@ -118,7 +126,7 @@ papers:
     title: 'Recognizing hate with nlp: The teaching experience of the# deactivhate lab in italian high schools'
     year: '2021'
   93SGqksAAAAJ:_Qo2XoVZTnwC:
-    citations: 3
+    citations: 4
     title: 'Dealing with controversy: An emotion and coping strategy corpus based on role playing'
     year: '2024'
   93SGqksAAAAJ:_kc_bZDykSQC:
@@ -154,7 +162,7 @@ papers:
     title: Comparison of two annotation schemes to derive offensiveness scores in HurtLex.
     year: '2022'
   93SGqksAAAAJ:hqOjcs7Dif8C:
-    citations: 18
+    citations: 19
     title: 'APPReddit: a corpus of Reddit posts annotated for appraisal'
     year: '2022'
   93SGqksAAAAJ:j3f4tGmQtD8C:
