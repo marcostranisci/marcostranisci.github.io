@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-24'
 papers:
   93SGqksAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -46,7 +46,7 @@ papers:
     title: How Do We Counter Hate Speech in Italy?
     year: '2024'
   93SGqksAAAAJ:IjCSPb-OGe4C:
-    citations: 37
+    citations: 38
     title: 'Annotating hate speech: Three schemes at comparison'
     year: '2019'
   93SGqksAAAAJ:KlAtU1dfN6UC:
@@ -142,7 +142,7 @@ papers:
     title: What Are They Filtering Out? An Experimental Benchmark of Filtering Strategies for Harm Reduction in Pretraining Datasets
     year: '2026'
   93SGqksAAAAJ:bFI3QPDXJZMC:
-    citations: 46
+    citations: 52
     title: 'Evalita 2026: Overview of the 9th evaluation campaign of natural language processing and speech tools for italian'
     year: '2026'
   93SGqksAAAAJ:cFHS6HbyZ2cC:
