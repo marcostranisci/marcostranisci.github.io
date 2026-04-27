@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-04-27'
 papers:
   93SGqksAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -142,7 +142,7 @@ papers:
     title: What Are They Filtering Out? An Experimental Benchmark of Filtering Strategies for Harm Reduction in Pretraining Datasets
     year: '2026'
   93SGqksAAAAJ:bFI3QPDXJZMC:
-    citations: 52
+    citations: 59
     title: 'Evalita 2026: Overview of the 9th evaluation campaign of natural language processing and speech tools for italian'
     year: '2026'
   93SGqksAAAAJ:cFHS6HbyZ2cC:
