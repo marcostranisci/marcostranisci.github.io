@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-06-17'
 papers:
   93SGqksAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -18,7 +18,7 @@ papers:
     title: Analysing moral beliefs for detecting hate speech spreaders on Twitter
     year: '2022'
   93SGqksAAAAJ:3s1wT3WcHBgC:
-    citations: 0
+    citations: 2
     title: Are you sure? Measuring models bias in content moderation through uncertainty
     year: '2025'
   93SGqksAAAAJ:4OULZ7Gr8RgC:
@@ -46,7 +46,7 @@ papers:
     title: How Do We Counter Hate Speech in Italy?
     year: '2024'
   93SGqksAAAAJ:IjCSPb-OGe4C:
-    citations: 38
+    citations: 39
     title: 'Annotating hate speech: Three schemes at comparison'
     year: '2019'
   93SGqksAAAAJ:KlAtU1dfN6UC:
@@ -62,7 +62,7 @@ papers:
     title: Preface to the Eighth Workshop on Natural Language for Artificial Intelligence (NL4AI 2024)
     year: '2024'
   93SGqksAAAAJ:M3ejUd6NZC8C:
-    citations: 17
+    citations: 18
     title: 'WikiBio: a semantic resource for the intersectional analysis of biographical events'
     year: '2023'
   93SGqksAAAAJ:NhqRSupF_l8C:
@@ -72,6 +72,10 @@ papers:
   93SGqksAAAAJ:SP6oXDckpogC:
     citations: 0
     title: 'Conspiracy Frame: a Semiotically-Driven Approach for Conspiracy Theories Detection'
+    year: '2026'
+  93SGqksAAAAJ:SdhP9T11ey4C:
+    citations: 0
+    title: 'The Ghost Annotator: a Framework to Explore Human Label Variation in Content Moderation through Conformal Prediction'
     year: '2026'
   93SGqksAAAAJ:Se3iqnhoufwC:
     citations: 10
@@ -86,11 +90,11 @@ papers:
     title: "Dissecting biases in relation extraction: A cross-dataset analysis on people\u2019s gender and origin"
     year: '2024'
   93SGqksAAAAJ:Tyk-4Ss8FVUC:
-    citations: 129
+    citations: 131
     title: 'Haspeede 2@ evalita2020: Overview of the evalita 2020 hate speech detection task'
     year: '2020'
   93SGqksAAAAJ:UeHWp8X0CEIC:
-    citations: 107
+    citations: 110
     title: 'Hate speech annotation: Analysis of an italian twitter corpus'
     year: '2017'
   93SGqksAAAAJ:UebtZRa9Y70C:
@@ -102,8 +106,8 @@ papers:
     title: 'Representing the under-represented: A dataset of post-colonial, and migrant writers'
     year: '2021'
   93SGqksAAAAJ:XiSMed-E-HIC:
-    citations: 0
-    title: 'SemEval-2026 Task 9: Detecting Multilingual, Multicultural and Multievent Online Polarization'
+    citations: 3
+    title: 'SemEval-2026 task 9: detecting multilingual, multicultural and multievent online polarization'
     year: '2026'
   93SGqksAAAAJ:YFjsv_pBGBYC:
     citations: 0
@@ -114,7 +118,7 @@ papers:
     title: Reducing the Underrepresentation of Transnational Writers through Biographical Event Extraction
     year: Unknown Year
   93SGqksAAAAJ:YsMSGLbcyi4C:
-    citations: 18
+    citations: 19
     title: "\u201Ccontro l\u2019odio\u201D: A platform for detecting, monitoring and visualizing hate speech against immigrants in Italian social media"
     year: '2020'
   93SGqksAAAAJ:Zph67rFs4hoC:
@@ -135,18 +139,18 @@ papers:
     year: '2023'
   93SGqksAAAAJ:abG-DnoFyZgC:
     citations: 3
-    title: 'Kenji-Endo: a BabyLM@ EVALITA'
+    title: 'Kenji-Endo: a BabyLM@ EVALITA.'
     year: '2026'
   93SGqksAAAAJ:b0M2c_1WBrUC:
-    citations: 9
+    citations: 12
     title: What Are They Filtering Out? An Experimental Benchmark of Filtering Strategies for Harm Reduction in Pretraining Datasets
     year: '2026'
   93SGqksAAAAJ:bFI3QPDXJZMC:
-    citations: 59
+    citations: 60
     title: 'Evalita 2026: Overview of the 9th evaluation campaign of natural language processing and speech tools for italian'
     year: '2026'
   93SGqksAAAAJ:cFHS6HbyZ2cC:
-    citations: 0
+    citations: 1
     title: 'POLAR: A Benchmark for Multilingual, Multicultural, and Multi-Event Online Polarization'
     year: '2025'
   93SGqksAAAAJ:d1gkVwhDpl0C:
@@ -157,6 +161,10 @@ papers:
     citations: 5
     title: HaMor at the profiling hate speech spreaders on Twitter
     year: '2021'
+  93SGqksAAAAJ:eq2jaN3J8jMC:
+    citations: 0
+    title: 'Epistemic Injustice in Language Models: An Audit of Pretraining Filters and Guardrails'
+    year: '2026'
   93SGqksAAAAJ:hC7cP41nSMkC:
     citations: 0
     title: Comparison of two annotation schemes to derive offensiveness scores in HurtLex.
@@ -186,11 +194,11 @@ papers:
     title: 'NL4AI 2024: Overview of the Eighth Workshop on Natural Language for Artificial Intelligence (NL4AI 2024)'
     year: '2024'
   93SGqksAAAAJ:ns9cj8rnVeAC:
-    citations: 2
+    citations: 3
     title: 'That is unacceptable: The moral foundations of canceling'
     year: '2025'
   93SGqksAAAAJ:pqnbT2bcN3wC:
-    citations: 0
+    citations: 1
     title: 'Curated datasets for literary tourism: a case study in knowledge graph creation'
     year: '2025'
   93SGqksAAAAJ:qUcmZB5y_30C:
@@ -198,17 +206,21 @@ papers:
     title: Human Robot Interaction through an ontology-based dialogue engine
     year: '2024'
   93SGqksAAAAJ:qjMakFHDy7sC:
-    citations: 39
+    citations: 40
     title: "Computational linguistics against hate: Hate speech detection and visualization on social media in the \u201CContro L\u2019Odio\u201D project"
     year: '2019'
   93SGqksAAAAJ:qxL8FJ1GzNcC:
-    citations: 12
+    citations: 14
     title: The world literature knowledge graph
     year: '2023'
   93SGqksAAAAJ:rO6llkc54NcC:
     citations: 1
     title: 'Subjectivity in stereotypes against migrants in italian: An experimental annotation procedure'
     year: '2025'
+  93SGqksAAAAJ:t6usbXjVLHcC:
+    citations: 0
+    title: 'Beyond Fake News Detection: a Community-based Study of the Multicultural Nature of Information Disorder'
+    year: '2026'
   93SGqksAAAAJ:u-x6o8ySG0sC:
     citations: 29
     title: Tools and resources for detecting hate and prejudice against immigrants in social media
@@ -234,6 +246,6 @@ papers:
     title: 'Beyond the Metrics: an Investigation into the Reliability of Evaluation Metrics for Domain Specific Graph-based Question Answering'
     year: '2025'
   93SGqksAAAAJ:zYLM7Y9cAGgC:
-    citations: 339
+    citations: 343
     title: An italian twitter corpus of hate speech against immigrants
     year: '2018'
