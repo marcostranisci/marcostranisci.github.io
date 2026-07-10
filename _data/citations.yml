@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-10'
 papers:
   93SGqksAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -90,7 +90,7 @@ papers:
     title: "Dissecting biases in relation extraction: A cross-dataset analysis on people\u2019s gender and origin"
     year: '2024'
   93SGqksAAAAJ:Tyk-4Ss8FVUC:
-    citations: 131
+    citations: 132
     title: 'Haspeede 2@ evalita2020: Overview of the evalita 2020 hate speech detection task'
     year: '2020'
   93SGqksAAAAJ:UeHWp8X0CEIC:
@@ -106,8 +106,8 @@ papers:
     title: 'Representing the under-represented: A dataset of post-colonial, and migrant writers'
     year: '2021'
   93SGqksAAAAJ:XiSMed-E-HIC:
-    citations: 3
-    title: 'SemEval-2026 task 9: detecting multilingual, multicultural and multievent online polarization'
+    citations: 50
+    title: 'SemEval-2026 Task 9: Detecting Multilingual, Multicultural and Multievent Online Polarization'
     year: '2026'
   93SGqksAAAAJ:YFjsv_pBGBYC:
     citations: 0
@@ -150,9 +150,9 @@ papers:
     title: 'Evalita 2026: Overview of the 9th evaluation campaign of natural language processing and speech tools for italian'
     year: '2026'
   93SGqksAAAAJ:cFHS6HbyZ2cC:
-    citations: 1
-    title: 'POLAR: A Benchmark for Multilingual, Multicultural, and Multi-Event Online Polarization'
-    year: '2025'
+    citations: 50
+    title: 'Polar: A benchmark for multilingual, multicultural, and multi-event online polarization'
+    year: '2026'
   93SGqksAAAAJ:d1gkVwhDpl0C:
     citations: 2
     title: 'HATECHECKER: a tool to automatically detect hater users in online social networks'
@@ -246,6 +246,6 @@ papers:
     title: 'Beyond the Metrics: an Investigation into the Reliability of Evaluation Metrics for Domain Specific Graph-based Question Answering'
     year: '2025'
   93SGqksAAAAJ:zYLM7Y9cAGgC:
-    citations: 343
+    citations: 344
     title: An italian twitter corpus of hate speech against immigrants
     year: '2018'
