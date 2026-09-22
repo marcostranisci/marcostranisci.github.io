@@ -4,7 +4,7 @@ title: HARMONIA
 description: Harmony in Hybrid Decision-Making
 img: assets/img/01_harmonia.png
 importance: 1
-category: work
+category: ongoing
 related_publications: true
 ---
 
