@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: NLP and Semantic Web researcher
+subtitle: Maria Skłodowska Curie Post-Doctoral Fellow
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Università degli Studi di Torino - Computer Science Department</p>
-    <p>Corso Svizzera, 185</p>
-    <p>Torino, Italy</p>
+    <p>IT-Universitet København</p>
+    <p>Rued Langgaards Vej 7, 2300</p>
+    <p>København, Denmark</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
